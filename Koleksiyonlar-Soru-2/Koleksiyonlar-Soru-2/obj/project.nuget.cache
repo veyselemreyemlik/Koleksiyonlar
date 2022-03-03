@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4hQc0lmqvq6uD71DSR3syAD8iqCk4iEP5QAYd3H8OxP9LwYxP0Y04WigeOcLx2HrZAP6Uu1Ny6G0m8wmpR+DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\C# PROJELERİ\\Koleksiyonlar-Soru-2\\Koleksiyonlar-Soru-2\\Koleksiyonlar-Soru-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
